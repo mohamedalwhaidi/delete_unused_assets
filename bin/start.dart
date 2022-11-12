@@ -21,7 +21,7 @@ void main(List<String> arguments) async {
         final assetsFolder = arguments.firstOrNull ?? 'assets';
 
         final assetsFolderPath = '$flutterProjectPath/$assetsFolder';
-        final deletedAssetFolderName = 'deleted_$assetsFolderPath';
+        final deletedAssetFolderName = '$flutterProjectPath/deleted_assets';
 
         write(
           '\nDon\'t worry I\'m not deleting any asset,\nI just moving it to $deletedAssetFolderName\n',
