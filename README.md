@@ -11,7 +11,7 @@ Put it under [`dev_dependencies`], in your [`pubspec.yaml`].
 
 ```yaml
 dev_dependencies:
-    delete_un_used_assets: [`latest-version`]
+    delete_un_used_assets: [latest-version]
 ```
 
 ## Usage
