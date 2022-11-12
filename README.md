@@ -7,7 +7,7 @@ Dart code.
 
 ## Installation
 
-Put it under [dev_dependencies][], in your [`pubspec.yaml`][pubspec].
+Put it under [`dev_dependencies`], in your [`pubspec.yaml`].
 
 ```yaml
 dev_dependencies:
