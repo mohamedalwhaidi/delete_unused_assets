@@ -19,7 +19,7 @@ dev_dependencies:
 ## Usage
 After running the command line at the bottom, it will search within the `assets` folder of your project
 for any unused file within your project, then it will be deleted from this folder and moved to
-a new folder `unused_assets` in the root of your project with keeping track of deleted files.
+a new folder `deleted_assets` in the root of your project with keeping track of deleted files.
 
 
 ### Built-in Commands
