@@ -13,7 +13,7 @@ Put it under [dev_dependencies][], in your [`pubspec.yaml`][pubspec].
 dev_dependencies:
   delete_un_used_assets:
     git:
-      url: https://github.com/MohamedAlwhaidi/delete_un_used_assets.git
+      url: https://github.com/mohamedalwhaidi/delete_un_used_assets.git
 ```
 
 ## Usage
