@@ -11,9 +11,7 @@ Put it under [`dev_dependencies`], in your [`pubspec.yaml`].
 
 ```yaml
 dev_dependencies:
-  delete_un_used_assets:
-    git:
-      url: https://github.com/mohamedalwhaidi/delete_un_used_assets.git
+    delete_un_used_assets: [`latest-version`]
 ```
 
 ## Usage
