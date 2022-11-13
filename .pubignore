@@ -1,0 +1,7 @@
+# Files and directories created by pub.
+
+.packages
+
+# Conventional directory for build output.
+
+build/
